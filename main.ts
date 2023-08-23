@@ -47,7 +47,7 @@ function parseAndProcess(svg_text: string, verbose: boolean = false): string {
     const links = document.getElementsByTagName('a');
     if (verbose) console.log(links.length);
     for (let i = 0; i < links.length; i++) {
-        const link: HTMLAnchorElement|null = links.item(i);
+        const link: HTMLElement|null = links.item(i);
         if (link === null) {
             if (verbose) console.log(`Something is wrong with link #${i}`);
         } else {
@@ -57,7 +57,7 @@ function parseAndProcess(svg_text: string, verbose: boolean = false): string {
                 if (href === "https://www.drawio.com/doc/faq/svg-export-text-problems") {
                     link.parentNode?.removeChild(link);
                 } else {
-                    const getFirstElement = (elem: HTMLAnchorElement): HTMLElement | null => {
+                    const getFirstElement = (elem: HTMLElement): HTMLElement | null => {
                         for (let n = 0; n < elem.childNodes.length; n++) {
                             const shape = elem.childNodes.item(n);
                             if (shape.nodeType === shape.ELEMENT_NODE) {
