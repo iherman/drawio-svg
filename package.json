@@ -1,0 +1,21 @@
+{
+  "name": "drawio-svg",
+  "version": "1.0.0",
+  "description": "Minor improvements on the SVG file exported by draw.io",
+  "main": "main.ts",
+  "scripts": {
+    "main": "./node_modules/.bin/ts-node main.ts"
+  },
+  "author": "Ivan Herman <ivan@w3.org> (https://www.w3.org/People/Ivan/)",
+  "license": "W3C-20150513",
+  "dependencies": {
+    "@types/node": "^20.5.2",
+    "@types/xmldom": "^0.1.31",
+    "@typescript-eslint/eslint-plugin": "^6.4.1",
+    "@typescript-eslint/parser": "^6.4.1",
+    "eslint": "^8.47.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6",
+    "xmldom": "^0.6.0"
+  }
+}
