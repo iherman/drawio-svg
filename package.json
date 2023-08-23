@@ -9,10 +9,12 @@
   "author": "Ivan Herman <ivan@w3.org> (https://www.w3.org/People/Ivan/)",
   "license": "W3C-20150513",
   "dependencies": {
+    "@types/commander": "^2.12.2",
     "@types/node": "^20.5.2",
     "@types/xmldom": "^0.1.31",
     "@typescript-eslint/eslint-plugin": "^6.4.1",
     "@typescript-eslint/parser": "^6.4.1",
+    "commander": "^11.0.0",
     "eslint": "^8.47.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6",
