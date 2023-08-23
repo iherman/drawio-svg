@@ -16,6 +16,7 @@
  */
 
 import { DOMParser, XMLSerializer } from 'xmldom';
+import 'xmldom';
 import { promises as fs }           from 'node:fs';
 import { Command }                  from 'commander';
 import * as svgo                    from 'svgo';
@@ -34,20 +35,19 @@ import * as svgo                    from 'svgo';
  * the SVG file.
  *
  * The function relies on the `xmldom` package for pure XML processing (the more widespread `jsdom` package
- * cannot be used because it does not have an XML serializer). Note that I was cheating a bit with the types, referring
- * to, e.g., `HTMLAnchorElement`; the reason is that I did not find the proper type hierarchy in `xmldom`...
+ * cannot be used because it does not have an XML serializer).
  *
  * @param svg_text
  * @param verbose
  * @returns
  */
 function parseAndProcess(svg_text: string, verbose: boolean = false): string {
-    const svg = new DOMParser().parseFromString(svg_text);
-    const document = svg.documentElement;
-    const links = document.getElementsByTagName('a');
+    const svg: Document = new DOMParser().parseFromString(svg_text);
+    // const document = svg.documentElement;
+    const links = svg.getElementsByTagName('a');
     if (verbose) console.log(links.length);
     for (let i = 0; i < links.length; i++) {
-        const link: HTMLElement|null = links.item(i);
+        const link: Element|null = links.item(i);
         if (link === null) {
             if (verbose) console.log(`Something is wrong with link #${i}`);
         } else {
@@ -57,11 +57,11 @@ function parseAndProcess(svg_text: string, verbose: boolean = false): string {
                 if (href === "https://www.drawio.com/doc/faq/svg-export-text-problems") {
                     link.parentNode?.removeChild(link);
                 } else {
-                    const getFirstElement = (elem: HTMLElement): HTMLElement | null => {
+                    const getFirstElement = (elem: Element): Element | null => {
                         for (let n = 0; n < elem.childNodes.length; n++) {
                             const shape = elem.childNodes.item(n);
                             if (shape.nodeType === shape.ELEMENT_NODE) {
-                                return shape as HTMLElement;
+                                return shape as Element;
                             }
                         }
                         return null;
