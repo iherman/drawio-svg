@@ -1,6 +1,7 @@
 import { DOMParser, XMLSerializer } from 'xmldom';
 import { promises as fs }           from 'node:fs';
 import { Command }                  from 'commander';
+import * as svgo                    from 'svgo';
 
 function parseAndProcess(svg_text: string, verbose: boolean = false): string {
     const svg = new DOMParser().parseFromString(svg_text);
@@ -67,7 +68,29 @@ async function main() {
     const svg_text = await fs.readFile(inp, 'utf-8');
     const new_svg_txt = parseAndProcess(svg_text, options.verbose);
 
-    await fs.writeFile(outp, new_svg_txt);
+    // Run svgo on this
+    const result = (svgo.optimize(new_svg_txt, {
+        plugins: [
+            {
+                name: 'preset-default',
+                params: {
+                    overrides: {
+                        removeMetadata: false,
+                        removeTitle: false,
+                        removeDesc: false,
+                        convertShapeToPath: false,
+                        removeViewBox: false,
+                    }
+                }
+            },
+            'removeDimensions'
+        ],
+        js2svg: {
+            indent: 4,
+            pretty: true
+        }
+    })).data;
+    await fs.writeFile(outp, result);
 }
 
 main();
