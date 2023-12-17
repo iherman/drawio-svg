@@ -103,37 +103,41 @@ async function main() {
         process.exit(-1);
     }
 
-    const inp: string = program.args[0];
+    try {
+        const inp: string = program.args[0];
 
-    const options = program.opts();
-    const outp: string  = options.output ? options.output : inp;
+        const options = program.opts();
+        const outp: string  = options.output ? options.output : inp;
 
-    const svg_text = await fs.readFile(inp, 'utf-8');
-    const new_svg_txt = parseAndProcess(svg_text, options.verbose);
+        const svg_text = await fs.readFile(inp, 'utf-8');
+        const new_svg_txt = parseAndProcess(svg_text, options.verbose);
 
-    // Run svgo on this
-    const result = (svgo.optimize(new_svg_txt, {
-        plugins: [
-            {
-                name: 'preset-default',
-                params: {
-                    overrides: {
-                        removeMetadata: false,
-                        removeTitle: false,
-                        removeDesc: false,
-                        convertShapeToPath: false,
-                        removeViewBox: false,
+        // Run svgo on this
+        const result = (svgo.optimize(new_svg_txt, {
+            plugins: [
+                {
+                    name: 'preset-default',
+                    params: {
+                        overrides: {
+                            removeMetadata: false,
+                            removeTitle: false,
+                            removeDesc: false,
+                            convertShapeToPath: false,
+                            removeViewBox: false,
+                        }
                     }
-                }
-            },
-            'removeDimensions'
-        ],
-        js2svg: {
-            indent: 4,
-            pretty: true
-        }
-    })).data;
-    await fs.writeFile(outp, result);
+                },
+                'removeDimensions'
+            ],
+            js2svg: {
+                indent: 4,
+                pretty: true
+            }
+        })).data;
+        await fs.writeFile(outp, result);
+    } catch(e) {
+        console.log(`${e} has been raised!`)
+    }
 }
 
 main();
