@@ -44,6 +44,8 @@ import * as svgo                    from 'svgo';
 function parseAndProcess(svg_text: string, verbose: boolean = false): string {
     const svg: Document = new DOMParser().parseFromString(svg_text);
     // const document = svg.documentElement;
+
+    // 1: change the link element
     const links = svg.getElementsByTagName('a');
     if (verbose) console.log(links.length);
     for (let i = 0; i < links.length; i++) {
@@ -78,7 +80,10 @@ function parseAndProcess(svg_text: string, verbose: boolean = false): string {
             }
         }
     }
+
     return (new XMLSerializer()).serializeToString(svg)
+        .replaceAll('<font', '<span')
+        .replaceAll('</font>', '</span>');
 }
 
 /**
