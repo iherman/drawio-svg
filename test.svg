@@ -1,3 +1,620 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="930px" height="982px" viewBox="-0.5 -0.5 930 982"><defs/><g><g><rect x="588" y="21" width="320" height="930" rx="38.4" ry="38.4" fill="none" stroke="#253db6" stroke-width="3" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 318px; height: 1px; padding-top: 486px; margin-left: 589px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><span style="color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bi%26gt%3B%26lt%3Bb%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3BVerifiable%20Credential%201%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fi%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1107%22%20y%3D%22-788%22%20width%3D%22220%22%20height%3D%2231.94%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E</span></div></div></div></foreignObject><text x="748" y="490" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%...</text></switch></g></g><g><path d="M 261 138.5 Q 261 138.5 627.52 237.9" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/></g><g><path d="M 261.48 440.9 Q 261.48 440.9 626.56 492" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/></g><g><path d="M 261.48 910.1 Q 261.48 910.1 628 806" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/></g><g><path d="M 262.44 531.2 Q 262.44 531.2 627.52 557" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/></g><g><path d="M 128.08 295.98 Q 128.08 295.98 653 415.71" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/></g><g><path d="M 187.93 775.98 Q 187.93 775.98 653 734" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/></g><g><rect x="21" y="26" width="240" height="450" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/></g><g/><g><rect x="31" y="38" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 54px; margin-left: 32px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><i><b><font style="font-size: 19px;">Verifiable Credential 1</font></b></i></div></div></div></foreignObject><text x="141" y="59" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Verifiable Credential 1</text></switch></g></g><g/><g><rect x="21" y="506" width="240" height="450" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/></g><g><rect x="31" y="516" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 532px; margin-left: 32px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><i><b><font style="font-size: 19px;">Verifiable Credential 2</font></b></i></div></div></div></foreignObject><text x="141" y="537" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Verifiable Credential 2</text></switch></g></g><g><rect x="608" y="166" width="280" height="690" rx="33.6" ry="33.6" fill="none" stroke="#166a1f" stroke-width="3" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 278px; height: 1px; padding-top: 511px; margin-left: 609px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><span style="color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bi%26gt%3B%26lt%3Bb%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3BVerifiable%20Credential%201%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fi%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1107%22%20y%3D%22-788%22%20width%3D%22220%22%20height%3D%2231.94%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E</span></div></div></div></foreignObject><text x="748" y="515" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%...</text></switch></g></g><g><rect x="638" y="176" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 192px; margin-left: 639px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><i><b><font style="font-size: 19px;">Verifiable Credential</font></b></i></div></div></div></foreignObject><text x="748" y="197" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Verifiable Credential</text></switch></g></g><g><rect x="608" y="66" width="280" height="88" rx="10.56" ry="10.56" fill="none" stroke="#166a1f" stroke-width="3" transform="translate(0,110)scale(1,-1)translate(0,-110)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 278px; height: 1px; padding-top: 110px; margin-left: 610px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Context</font><div style="font-size: 14px;"><font style="font-size: 14px;">  Type</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  ID</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  …</font></div></div></div></div></foreignObject><text x="610" y="114" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text></switch></g></g><g><rect x="608" y="876" width="280" height="50" rx="6" ry="6" fill="none" stroke="#166a1f" stroke-width="3" transform="translate(0,901)scale(1,-1)translate(0,-901)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 278px; height: 1px; padding-top: 901px; margin-left: 610px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;"> Proof:</font><div><span style="font-size: 14px;">   Common Link Secret</span></div></div></div></div></foreignObject><text x="610" y="905" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text></switch></g></g><g/><g><rect x="638" y="34.06" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 50px; margin-left: 639px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><i><b><font style="font-size: 19px;">Presentation</font></b></i></div></div></div></foreignObject><text x="748" y="55" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Presentation</text></switch></g></g><g/><g/><g/><g><rect x="628" y="216" width="240" height="300" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/></g><g><rect x="638" y="226" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 242px; margin-left: 639px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><i><b><font style="font-size: 19px;">Derived Credential 1</font></b></i></div></div></div></foreignObject><text x="748" y="247" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Derived Credential 1</text></switch></g></g><g><rect x="653" y="266" width="190" height="105.84" rx="12.7" ry="12.7" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,318.92)scale(1,-1)translate(0,-318.92)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 319px; margin-left: 655px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Context</font><div style="font-size: 14px;"><font style="font-size: 14px;">  Type</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  ID</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issuer</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issue Date</font></div></div></div></div></foreignObject><text x="655" y="323" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text></switch></g></g><g><rect x="653" y="384.84" width="190" height="41.16" rx="4.94" ry="4.94" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,405.42)scale(1,-1)translate(0,-405.42)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 405px; margin-left: 655px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Credential Subject:</font><div style="font-size: 14px;"><span style="background-color: initial;">    ageOver 18</span></div></div></div></div></foreignObject><text x="655" y="409" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text></switch></g></g><g><rect x="653" y="446" width="190" height="50" rx="6" ry="6" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,471)scale(1,-1)translate(0,-471)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 471px; margin-left: 655px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Proof:</font><div style="font-size: 14px;"><font style="font-size: 14px;">    Knowledge of Signature</font></div></div></div></div></foreignObject><text x="655" y="475" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text></switch></g></g><g/><g><rect x="628" y="536" width="240" height="300" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/></g><g><rect x="638" y="546" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 562px; margin-left: 639px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><i><b><font style="font-size: 19px;">Derived Credential 2</font></b></i></div></div></div></foreignObject><text x="748" y="567" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Derived Credential 2</text></switch></g></g><g><rect x="653" y="586" width="190" height="105.84" rx="12.7" ry="12.7" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,638.92)scale(1,-1)translate(0,-638.92)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 639px; margin-left: 655px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Context</font><div style="font-size: 14px;"><font style="font-size: 14px;">  Type</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  ID</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issuer</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issue Date</font></div></div></div></div></foreignObject><text x="655" y="643" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text></switch></g></g><g><rect x="653" y="704.84" width="190" height="41.16" rx="4.94" ry="4.94" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,725.42)scale(1,-1)translate(0,-725.42)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 725px; margin-left: 655px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Credential Subject:</font><div style="font-size: 14px;"><span style="background-color: initial;">    Degree</span></div></div></div></div></foreignObject><text x="655" y="729" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text></switch></g></g><g><rect x="653" y="766" width="190" height="50" rx="6" ry="6" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,791)scale(1,-1)translate(0,-791)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 791px; margin-left: 655px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Proof:</font><div style="font-size: 14px;"><font style="font-size: 14px;">    Knowledge of Signature</font></div></div></div></div></foreignObject><text x="655" y="795" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text></switch></g></g><g><rect x="46" y="71.84" width="190" height="140" rx="16.8" ry="16.8" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,141.84)scale(1,-1)translate(0,-141.84)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 142px; margin-left: 48px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Context</font><div style="font-size: 14px;"><font style="font-size: 14px;">  Type</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  ID</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issuer</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issue Date </font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Expiration Date</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  …</font></div></div></div></div></foreignObject><text x="48" y="145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text></switch></g></g><g><rect x="46" y="224.84" width="190" height="104" rx="12.48" ry="12.48" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,276.84)scale(1,-1)translate(0,-276.84)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 277px; margin-left: 48px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Credential Subject:</font><div style="font-size: 14px;"><font style="font-size: 14px;">    Given Name</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">    Family Name</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">    Birth Date</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">    …</font></div></div></div></div></foreignObject><text x="48" y="280" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text></switch></g></g><g><rect x="46" y="342.84" width="190" height="107.03" rx="12.84" ry="12.84" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,396.36)scale(1,-1)translate(0,-396.36)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 396px; margin-left: 48px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Proof:</font><div style="font-size: 14px;"><font style="font-size: 14px;">    Signature</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">      Proof of Correctness</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">      Attributes</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">      …</font></div></div></div></div></foreignObject><text x="48" y="400" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text></switch></g></g><g><rect x="46" y="551.84" width="190" height="140" rx="16.8" ry="16.8" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,621.84)scale(1,-1)translate(0,-621.84)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 622px; margin-left: 48px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Context</font><div style="font-size: 14px;"><font style="font-size: 14px;">  Type</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  ID</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issuer</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Issue Date</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  Expiration Date</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">  …</font></div></div></div></div></foreignObject><text x="48" y="625" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text></switch></g></g><g><rect x="46" y="704.84" width="190" height="104" rx="12.48" ry="12.48" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,756.84)scale(1,-1)translate(0,-756.84)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 757px; margin-left: 48px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Credential Subject:</font><div style="font-size: 14px;"><span style="background-color: initial;">    University  </span></div><div style="font-size: 14px;"><span style="background-color: initial;">      Department</span><br /></div><div style="font-size: 14px;"><span style="background-color: initial;">        Degree Awarded</span></div><div style="font-size: 14px;"><span style="background-color: initial;">   …</span><br /></div></div></div></div></foreignObject><text x="48" y="760" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text></switch></g></g><g><rect x="46" y="822.84" width="190" height="107.03" rx="12.84" ry="12.84" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,876.36)scale(1,-1)translate(0,-876.36)" pointer-events="all"/></g><g><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 876px; margin-left: 48px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><font style="font-size: 14px;">  Proof:</font><div style="font-size: 14px;"><font style="font-size: 14px;">    Signature</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">    Proof of Correctness</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">    Attributes</font></div><div style="font-size: 14px;"><font style="font-size: 14px;">    …</font></div></div></div></div></foreignObject><text x="48" y="880" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text></switch></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="930px" height="982px" viewBox="-0.5 -0.5 930 982">
+    <defs/>
+    <g>
+        <g>
+            <rect x="588" y="21" width="320" height="930" rx="38.4" ry="38.4" fill="none" stroke="#253db6" stroke-width="3" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 318px; height: 1px; padding-top: 486px; margin-left: 589px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <span style="color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bi%26gt%3B%26lt%3Bb%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3BVerifiable%20Credential%201%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fi%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1107%22%20y%3D%22-788%22%20width%3D%22220%22%20height%3D%2231.94%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E</span>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="748" y="490" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 261 138.5 Q 261 138.5 627.52 237.9" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        </g>
+        <g>
+            <path d="M 261.48 440.9 Q 261.48 440.9 626.56 492" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        </g>
+        <g>
+            <path d="M 261.48 910.1 Q 261.48 910.1 628 806" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        </g>
+        <g>
+            <path d="M 262.44 531.2 Q 262.44 531.2 627.52 557" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        </g>
+        <g>
+            <path d="M 128.08 295.98 Q 128.08 295.98 653 415.71" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        </g>
+        <g>
+            <path d="M 187.93 775.98 Q 187.93 775.98 653 734" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        </g>
+        <g>
+            <rect x="21" y="26" width="240" height="450" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/>
+        </g>
+        <g/>
+        <g>
+            <rect x="31" y="38" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 54px; margin-left: 32px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <i>
+                                        <b>
+                                            <font style="font-size: 19px;">Verifiable Credential 1</font>
+                                        </b>
+                                    </i>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="141" y="59" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Verifiable Credential 1</text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g>
+            <rect x="21" y="506" width="240" height="450" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/>
+        </g>
+        <g>
+            <rect x="31" y="516" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 532px; margin-left: 32px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <i>
+                                        <b>
+                                            <font style="font-size: 19px;">Verifiable Credential 2</font>
+                                        </b>
+                                    </i>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="141" y="537" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Verifiable Credential 2</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="608" y="166" width="280" height="690" rx="33.6" ry="33.6" fill="none" stroke="#166a1f" stroke-width="3" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 278px; height: 1px; padding-top: 511px; margin-left: 609px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <span style="color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bi%26gt%3B%26lt%3Bb%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3BVerifiable%20Credential%201%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fi%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1107%22%20y%3D%22-788%22%20width%3D%22220%22%20height%3D%2231.94%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E</span>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="748" y="515" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="638" y="176" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 192px; margin-left: 639px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <i>
+                                        <b>
+                                            <font style="font-size: 19px;">Verifiable Credential</font>
+                                        </b>
+                                    </i>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="748" y="197" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Verifiable Credential</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="608" y="66" width="280" height="88" rx="10.56" ry="10.56" fill="none" stroke="#166a1f" stroke-width="3" transform="translate(0,110)scale(1,-1)translate(0,-110)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 278px; height: 1px; padding-top: 110px; margin-left: 610px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Context</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Type</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  ID</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  …</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="610" y="114" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="608" y="876" width="280" height="50" rx="6" ry="6" fill="none" stroke="#166a1f" stroke-width="3" transform="translate(0,901)scale(1,-1)translate(0,-901)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 278px; height: 1px; padding-top: 901px; margin-left: 610px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;"> Proof:</font>
+                                    <div>
+                                        <span style="font-size: 14px;">   Common Link Secret</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="610" y="905" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g>
+            <rect x="638" y="34.06" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 50px; margin-left: 639px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <i>
+                                        <b>
+                                            <font style="font-size: 19px;">Presentation</font>
+                                        </b>
+                                    </i>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="748" y="55" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Presentation</text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g/>
+        <g/>
+        <g>
+            <rect x="628" y="216" width="240" height="300" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/>
+        </g>
+        <g>
+            <rect x="638" y="226" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 242px; margin-left: 639px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <i>
+                                        <b>
+                                            <font color="#000" style="font-size: 19px;">Derived Credential 1</font>
+                                        </b>
+                                    </i>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="748" y="247" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Derived Credential 1</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="653" y="266" width="190" height="105.84" rx="12.7" ry="12.7" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,318.92)scale(1,-1)translate(0,-318.92)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 319px; margin-left: 655px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Context</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Type</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  ID</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font size="2" style="font-size: 14px;">  Issuer</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Issue Date</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="655" y="323" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="653" y="384.84" width="190" height="41.16" rx="4.94" ry="4.94" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,405.42)scale(1,-1)translate(0,-405.42)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 405px; margin-left: 655px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Credential Subject:</font>
+                                    <div style="font-size: 14px;">
+                                        <span style="background-color: initial;">    ageOver 18</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="655" y="409" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="653" y="446" width="190" height="50" rx="6" ry="6" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,471)scale(1,-1)translate(0,-471)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 471px; margin-left: 655px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Proof:</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Knowledge of Signature</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="655" y="475" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g>
+            <rect x="628" y="536" width="240" height="300" rx="28.8" ry="28.8" fill="none" stroke="#bc1a1a" stroke-width="3" pointer-events="all"/>
+        </g>
+        <g>
+            <rect x="638" y="546" width="220" height="31.94" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 562px; margin-left: 639px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <i>
+                                        <b>
+                                            <font style="font-size: 19px;">Derived Credential 2</font>
+                                        </b>
+                                    </i>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="748" y="567" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">Derived Credential 2</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="653" y="586" width="190" height="105.84" rx="12.7" ry="12.7" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,638.92)scale(1,-1)translate(0,-638.92)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 639px; margin-left: 655px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Context</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Type</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  ID</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Issuer</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Issue Date</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="655" y="643" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="653" y="704.84" width="190" height="41.16" rx="4.94" ry="4.94" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,725.42)scale(1,-1)translate(0,-725.42)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 725px; margin-left: 655px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Credential Subject:</font>
+                                    <div style="font-size: 14px;">
+                                        <span style="background-color: initial;">    Degree</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="655" y="729" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="653" y="766" width="190" height="50" rx="6" ry="6" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,791)scale(1,-1)translate(0,-791)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 791px; margin-left: 655px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Proof:</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Knowledge of Signature</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="655" y="795" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="46" y="71.84" width="190" height="140" rx="16.8" ry="16.8" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,141.84)scale(1,-1)translate(0,-141.84)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 142px; margin-left: 48px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Context</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Type</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  ID</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Issuer</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Issue Date </font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Expiration Date</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  …</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="48" y="145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="46" y="224.84" width="190" height="104" rx="12.48" ry="12.48" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,276.84)scale(1,-1)translate(0,-276.84)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 277px; margin-left: 48px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Credential Subject:</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Given Name</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Family Name</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Birth Date</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    …</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="48" y="280" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="46" y="342.84" width="190" height="107.03" rx="12.84" ry="12.84" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,396.36)scale(1,-1)translate(0,-396.36)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 396px; margin-left: 48px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Proof:</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Signature</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">      Proof of Correctness</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">      Attributes</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">      …</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="48" y="400" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="46" y="551.84" width="190" height="140" rx="16.8" ry="16.8" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,621.84)scale(1,-1)translate(0,-621.84)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 622px; margin-left: 48px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Context</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Type</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  ID</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Issuer</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Issue Date</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  Expiration Date</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">  …</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="48" y="625" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Context...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="46" y="704.84" width="190" height="104" rx="12.48" ry="12.48" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,756.84)scale(1,-1)translate(0,-756.84)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 757px; margin-left: 48px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Credential Subject:</font>
+                                    <div style="font-size: 14px;">
+                                        <span style="background-color: initial;">    University  </span>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <span style="background-color: initial;">      Department</span>
+                                        <br />
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <span style="background-color: initial;">        Degree Awarded</span>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <span style="background-color: initial;">   …</span>
+                                        <br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="48" y="760" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Credential Subject:...</text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="46" y="822.84" width="190" height="107.03" rx="12.84" ry="12.84" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" transform="translate(0,876.36)scale(1,-1)translate(0,-876.36)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 876px; margin-left: 48px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 14px;">  Proof:</font>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Signature</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Proof of Correctness</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    Attributes</font>
+                                    </div>
+                                    <div style="font-size: 14px;">
+                                        <font style="font-size: 14px;">    …</font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="48" y="880" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">Proof:...</text>
+                </switch>
+            </g>
+        </g>
+    </g>
+</svg>

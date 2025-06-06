@@ -81,9 +81,39 @@ function parseAndProcess(svg_text: string, verbose: boolean = false): string {
         }
     }
 
-    return (new XMLSerializer()).serializeToString(svg)
-        .replaceAll('<font', '<span')
-        .replaceAll('</font>', '</span>');
+    // 2: take care of the svg font elements
+    const fonts = Array.from(svg.getElementsByTagName('font'));
+    for (const font of fonts) {
+        if (font === null) {
+            if (verbose) console.log(`Something is wrong with a font`);
+        } else {
+            const span = svg.createElement('span');
+            // add all the attributes of font, except some illegals to
+            // span
+            for (let j = 0; j < font.attributes.length; j++) {
+                const attr = font.attributes[j];
+                if (!['size', 'color', 'face'].includes(attr.name)) {
+                    // copy the attribute to span
+                    span.setAttribute(attr.name, attr.value);
+                }
+            }
+
+            // re-parent all the children to the new span element
+            const children = Array.from(font.childNodes);
+            for (const child of children) {
+                span.appendChild(child);
+            }
+
+
+            // remove the font element, it is not necessary any more
+            if (font.parentNode) {
+                font.parentNode.replaceChild(span, font);
+                font.parentNode.removeChild(font);
+            }
+        }
+    }
+
+    return (new XMLSerializer()).serializeToString(svg);
 }
 
 /**
