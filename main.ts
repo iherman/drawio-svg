@@ -20,6 +20,8 @@ import 'xmldom';
 import { promises as fs }           from 'node:fs';
 import { Command }                  from 'commander';
 import * as svgo                    from 'svgo';
+import * as process                 from "node:process";
+
 
 /**
  * Process the SVG file exported from draw.io for VC WG related diagrams. The draw.io
